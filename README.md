@@ -27,8 +27,7 @@ A proposta visual foi pensada para tornar a experiência intuitiva, informativa 
 - Tkinter  
 - Requests  
 - Pillow (PIL)  
-- API Open-Meteo  
-- Interface gráfica com imagem de fundo  
+- API Open-Meteo    
 - `try/except` para tratamento de erros
 
 ---
@@ -39,3 +38,9 @@ Desenvolvido por Jamile Rockenbach Ferreira, estudante de Ciência da Computaç�
 Um projeto simples, mas poderoso, que une API + GUI de forma didática e funcional, ideal para quem deseja ver como Python pode ser usado para criar aplicações visuais úteis.
 
 ---
+
+## ☁️ Interface:
+
+![Tela do projeto](assets/interface.jpeg)
+
+![Tela do projeto sendo executado](assets/interface_funcional.jpeg)

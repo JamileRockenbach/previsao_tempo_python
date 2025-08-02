@@ -1,6 +1,6 @@
 ### 🌤️ Previsão do Tempo com Python + Tkinter
 
-Este é um aplicativo de previsão do tempo desenvolvido em Python com interface gráfica feita em Tkinter.  
+Este é um mini projeto de previsão do tempo desenvolvido em Python com interface gráfica feita em Tkinter.  
 Ele permite que o usuário digite a cidade e a sigla do estado desejado (ex: `Campinas`, `SP`) e, com base nesses dados, o app exibe:
 - Temperatura atual 🌡️
 - Umidade relativa do ar 💧 
